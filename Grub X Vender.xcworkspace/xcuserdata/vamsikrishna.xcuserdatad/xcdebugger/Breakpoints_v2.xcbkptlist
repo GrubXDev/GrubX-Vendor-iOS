@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E68D742-AFA8-45DC-85C7-9A0D904CE882"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3C48F40-72C6-42CC-95A1-5FD0DD917432"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/HomePageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71403134-5D62-404F-A853-67CC4E486D72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/HomePageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F3A1A4A-25FD-4B0C-A4B2-974AF5B510F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setupCollectionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9061A2A-CE31-4DD9-BFD0-DB157BEAE8C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "UPCarouselFlowLayout"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C9061A2A-CE31-4DD9-BFD0-DB157BEAE8C6 - c35a9c90bfb0086d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grub_X_Vender.UPCarouselFlowLayout.__allocating_init() -&gt; Grub_X_Vender.UPCarouselFlowLayout"
+                  moduleName = "Grub X Vender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsikrishna/Desktop/untitled%20folder/Grub%20X%20Vender/Grub%20X%20Vender/UPCarouselFlowLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "C9061A2A-CE31-4DD9-BFD0-DB157BEAE8C6 - c243c44a731ec035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grub_X_Vender.UPCarouselFlowLayout.init() -&gt; Grub_X_Vender.UPCarouselFlowLayout"
+                  moduleName = "Grub X Vender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsikrishna/Desktop/untitled%20folder/Grub%20X%20Vender/Grub%20X%20Vender/UPCarouselFlowLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "C9061A2A-CE31-4DD9-BFD0-DB157BEAE8C6 - 7f3a0903112c27d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grub_X_Vender.UPCarouselFlowLayout.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Grub_X_Vender.UPCarouselFlowLayout&gt;"
+                  moduleName = "Grub X Vender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsikrishna/Desktop/untitled%20folder/Grub%20X%20Vender/Grub%20X%20Vender/UPCarouselFlowLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "C9061A2A-CE31-4DD9-BFD0-DB157BEAE8C6 - 20537eeea95dacda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grub_X_Vender.UPCarouselFlowLayout.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Grub_X_Vender.UPCarouselFlowLayout&gt;"
+                  moduleName = "Grub X Vender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsikrishna/Desktop/untitled%20folder/Grub%20X%20Vender/Grub%20X%20Vender/UPCarouselFlowLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "C9061A2A-CE31-4DD9-BFD0-DB157BEAE8C6 - 43c9e7dc2b7855a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grub_X_Vender.UPCarouselFlowLayout.__deallocating_deinit"
+                  moduleName = "Grub X Vender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsikrishna/Desktop/untitled%20folder/Grub%20X%20Vender/Grub%20X%20Vender/UPCarouselFlowLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AECB1D83-6756-4D81-8BDB-BDB135AAA862"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "UPCarouselFlowLayoutSpacingMode"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "778672CA-62A7-4781-9DF8-983244E6E304"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "prepare()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4644478E-5A17-4240-A7AC-2F4F25E8430A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "updateLayout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "830B96DD-DBF3-43D4-85A2-44B714F592DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "shouldInvalidateLayout(forBoundsChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA56DEA8-C04B-432C-8914-506D4D13CE72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "layoutAttributesForElements(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1894A7F1-3DB6-4AAF-A3B1-E6B9CBBD6BB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "transformLayoutAttributes(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55077136-5500-46D5-A464-2A90C9A4474F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grub X Vender/UPCarouselFlowLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "targetContentOffset(forProposedContentOffset:withScrollingVelocity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

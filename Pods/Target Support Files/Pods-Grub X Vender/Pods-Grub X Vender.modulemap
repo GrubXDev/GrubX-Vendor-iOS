@@ -1,0 +1,6 @@
+framework module Pods_Grub_X_Vender {
+  umbrella header "Pods-Grub X Vender-umbrella.h"
+
+  export *
+  module * { export * }
+}

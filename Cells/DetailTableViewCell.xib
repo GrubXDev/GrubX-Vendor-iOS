@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Muli-SemiBold.ttf">
+            <string>Muli-SemiBold</string>
+        </array>
+        <array key="Muli.ttf">
+            <string>Muli</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="DetailTableViewCell" rowHeight="114" id="QFY-f1-Nve" customClass="DetailTableViewCell" customModule="Grub_X_Vender" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="313" height="114"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="QFY-f1-Nve" id="iID-jm-3Au">
+                <rect key="frame" x="0.0" y="0.0" width="313" height="114"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3Lj-dn-kWh">
+                        <rect key="frame" x="0.0" y="0.0" width="313" height="114"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dashboard-icon" translatesAutoresizingMaskIntoConstraints="NO" id="Dim-za-xms">
+                                <rect key="frame" x="8" y="17" width="80" height="80"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="XgP-AI-Zdl"/>
+                                    <constraint firstAttribute="height" constant="80" id="unJ-QG-N4x"/>
+                                </constraints>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="DbW-zt-Fef">
+                                <rect key="frame" x="98" y="32" width="205" height="50"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="VMh-Vk-fhX">
+                                        <rect key="frame" x="0.0" y="0.0" width="205" height="22.5"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Budweiser" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="F9f-9O-RY1">
+                                                <rect key="frame" x="0.0" y="0.0" width="97.5" height="22.5"/>
+                                                <fontDescription key="fontDescription" name="Muli-SemiBold" family="Muli" pointSize="15"/>
+                                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$ 200" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="JRc-aV-xz3">
+                                                <rect key="frame" x="107.5" y="0.0" width="97.5" height="22.5"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="14"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="aLb-2n-hPC">
+                                        <rect key="frame" x="0.0" y="27.5" width="205" height="22.5"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="quantity" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="Byf-KA-d9F">
+                                                <rect key="frame" x="0.0" y="0.0" width="97.5" height="22.5"/>
+                                                <fontDescription key="fontDescription" name="Muli" family="Muli" pointSize="15"/>
+                                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="40 KG" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="uPF-40-A01">
+                                                <rect key="frame" x="107.5" y="0.0" width="97.5" height="22.5"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                                <color key="textColor" red="0.80817365649999995" green="0.2728697658" blue="0.24851772189999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="tertiarySystemGroupedBackgroundColor" red="0.94901960780000005" green="0.94901960780000005" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </stackView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="DbW-zt-Fef" firstAttribute="leading" secondItem="Dim-za-xms" secondAttribute="trailing" constant="10" id="Dgv-3Z-ltI"/>
+                            <constraint firstItem="DbW-zt-Fef" firstAttribute="centerY" secondItem="3Lj-dn-kWh" secondAttribute="centerY" id="Ecm-yS-e2P"/>
+                            <constraint firstItem="Dim-za-xms" firstAttribute="leading" secondItem="3Lj-dn-kWh" secondAttribute="leading" constant="8" id="UVY-z4-r66"/>
+                            <constraint firstItem="Dim-za-xms" firstAttribute="centerY" secondItem="3Lj-dn-kWh" secondAttribute="centerY" id="pek-HS-wRT"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="3Lj-dn-kWh" secondAttribute="trailing" id="9Gh-WA-rcb"/>
+                    <constraint firstItem="3Lj-dn-kWh" firstAttribute="top" secondItem="iID-jm-3Au" secondAttribute="top" id="PYL-O8-PZV"/>
+                    <constraint firstAttribute="trailing" secondItem="DbW-zt-Fef" secondAttribute="trailing" constant="10" id="SI8-le-D47"/>
+                    <constraint firstAttribute="bottom" secondItem="3Lj-dn-kWh" secondAttribute="bottom" id="dtI-Jb-9u0"/>
+                    <constraint firstItem="3Lj-dn-kWh" firstAttribute="leading" secondItem="iID-jm-3Au" secondAttribute="leading" id="hi2-08-5Gm"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="QMT-LO-1Bc"/>
+            <connections>
+                <outlet property="imgView" destination="Dim-za-xms" id="agX-DZ-hgt"/>
+                <outlet property="nameLbl" destination="JRc-aV-xz3" id="AQg-U0-TmC"/>
+                <outlet property="quantityLbl" destination="uPF-40-A01" id="UzP-iA-Max"/>
+            </connections>
+            <point key="canvasLocation" x="-55669" y="147"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="dashboard-icon" width="30" height="30"/>
+    </resources>
+</document>
